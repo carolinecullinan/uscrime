@@ -1,0 +1,12 @@
+### Crime & Public Infrastructure: The Case of Five Major US Cities
+#### To what extent do elements of the urban fabric influence crime rates in major US cities?
+
+By Leonardo Nicoletti and Caroline Cullinan
+
+Internationally, crime devastates countries. Increased crime results in harmful effects for legal economies (Detotto & Otranto, 2010). Investments from foreign and domestic sources are discouraged, and firms become less competitive as a result of crime (Detotto & Otranto, 2010). Crime also threatens the personal security of a country’s citizens, thus negatively impacting the overall health and well-being of individuals (Morrall, Marshall, & Macdonald, 2010). Those victimised by crime experience mental-health disorders such as insomnia, depression, and anxiety at increased rates (Morrall, Marshall, & Macdonald, 2010). Therefore, the negative health effects associated with crime can contribute to social disengagement, thus weakening overall social cohesion of communities (Morrall, Marshall, & Macdonald, 2010).
+
+In order to address perpetuators of crime, Wilson & Kelling proposed the “broken window theory” (1982). Such theory disputes that regardless of neighborhood, neglected property encourages further neglect and destruction of property. Such theory insists that increased incidents of crime are associated with increased instances of community neglect. Further argued, the “broken window theory” suggests that minor forms of neglect, such as garbage-littered streets and broken street lamps, have the greatest contributions to criminal activity, for the existence of disorder may allude that the actions of individuals’ go unaccounted for.
+
+To test the relevance of this theory in current times, the relationship between crime and elements of the urban fabric that contribute to the “cleanliness” and “care” of streets are assessed across five United States (US) cities; San Francisco, Los Angeles, Boston, Philadelphia, and Washington D.C.. Such analysis examines if trash can availability, street light presence, and the existence of trees in urban communities relate to crime. With the use of a predictive model, such analysis also examines if the existence of such elements (trash cans, street lights, and trees) can predict instances of crime.
+
+This project was completed in 2019 as a part of the EPA 1315 Data Analytics & Visualization course at TU Delft.

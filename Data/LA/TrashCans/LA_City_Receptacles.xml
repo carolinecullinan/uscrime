@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>The City of Los Angeles though LA Sanitation performs periodic indexing of all trash receptacles (Bins) located on public sidewalks as part of its Clean Streets CleanStat program.  Each bin has a date associated with its indexing and the last indexing was completed on 09/12/2016.
+
+All indication of ownership or maintenance is from visual observation and the city makes no guarantee as to its accuracy or correctness.
+
+For more information please contact the data owner or the LA GeoHub administrator</abstract>
+            <purpose>City of Los Angeles Receptacles Indexed</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey> CleanStat</themekey>
+                <themekey>Sanitation</themekey>
+                <themekey>Litter</themekey>
+                <themekey>Litter Bins</themekey>
+                <themekey>Trash</themekey>
+                <themekey>Indexing</themekey>
+                <themekey>clean streets</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Public</useconst>
+        <datacred>LA Sanitation GIS Group</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
